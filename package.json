@@ -1,0 +1,21 @@
+{
+  "name": "omen",
+  "displayName": "omen",
+  "description": "Omen Theme for vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Omen",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Omen-color-theme.json"
+      }
+    ]
+  }
+}
